@@ -1,1 +1,1 @@
-# intelligent-queue-management-openvino
+# Intelligent Queue Management with OpenVINO™
